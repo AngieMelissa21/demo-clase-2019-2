@@ -11,10 +11,12 @@ Hello hello hello
 * Viñeta 1
 * Viñeta 2
 * Viñeta 3
+  * Viñeta 3.1
 
 ## Subtítulo 3
 
-[] Lista de chqueo 1
+[] Lista de chequeo 1
+
 [] Lista de chequeo 2
 
 ## Subtítulo 4
